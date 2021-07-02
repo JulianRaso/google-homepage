@@ -1,0 +1,23 @@
+body {
+    margin-top: 1%;
+}
+
+.container {
+    margin: 2%;
+    margin-top: 15%;
+    text-align: center;
+}
+
+.searcher {
+    border: 2cm;
+    background-color: red;
+    border-radius: 2%;
+    height: 1cm;
+    width: 15cm;
+}
+
+a{
+    color: grey;
+    background-color: lightgray;
+}
+
