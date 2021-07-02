@@ -4,20 +4,31 @@ body {
 
 .container {
     margin: 2%;
-    margin-top: 15%;
+    margin-top: 12%;
     text-align: center;
 }
 
 .searcher {
-    border: 2cm;
-    background-color: red;
-    border-radius: 2%;
-    height: 1cm;
-    width: 15cm;
+    border: 2px solid gray;
+    border-radius: 15px;
+    margin: 2%;
+    margin-left: 45%;
+    border: solid 5%;
+    height: fit-content;
+    width: fit-content;
 }
 
 a{
     color: grey;
     background-color: lightgray;
+
 }
+
+a:link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+  }
 
